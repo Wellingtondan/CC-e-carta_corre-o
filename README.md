@@ -52,11 +52,11 @@ A CC-e pode ser usada para corrigir erros que **não impliquem**:
 
 - Modificação do **emitente** ou do **destinatário** (ex: mudança de CNPJ)
 
-📌 **Exemplos de campos que podem ser corrigidos**
+📌 **Exemplos de campos que podem ou não podem ser corrigidos**
 
 | **Tipo de Informação**	| **Pode Corrigir?** |
 | -------------------- | -------------------- |
-| *CFOP ou CST (sem mudança de tributação)* |  ✅  |
+| *CFOP ou CST (sem mudança de tributação)* | ser ✅  |
 | *Descrição do produto (sem mudar valor)* |  ✅  |
 | *Peso, volume, embalagem*	|   ✅  |
 | *Data de saída ou emissão (mesmo período ICMS)*	| ✅ |
@@ -98,8 +98,13 @@ A CC-e pode ser usada para corrigir erros que **não impliquem**:
 | *Ajuste SINIEF 13/2024* |	Define o uso e condições da CC-e a partir de 2024 | [Acesse site](https://www.confaz.fazenda.gov.br/legislacao/ajustes/2024/ajuste-sinef-13-24) |
 | *Nota Técnica 2011/003*	| Especifica o layout e regras técnicas do evento | [Acesse site](https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=hNJXbmu+l8Q%3D) |
 | *Manual de Orientação ao Contribuinte (MOC)* |	Regras operacionais e técnicas da NF-e | [Acesse site](https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=ndIjl+iEFdE%3D) |
-| *Portal Nacional da NF-e*	| Documentação oficial da Receita Federal | [Acesse site](https://www.nfe.fazenda.gov.br)
-| *Resposta à consulta 29992/2024, de 12 de julho de 2024* | Dados cadastrais | [Acesse site](https://legislacao.fazenda.sp.gov.br/Paginas/RC30299_2024.aspx) |
-| *Resposta à consultaA 30299/2024, de 23 de setembro de 2024* | Preenchimento incorreto | [Acesse site]([https://legislacao.fazenda.sp.gov.br/Paginas/RC30299_2024.aspx) |
+| *Portal Nacional da NF-e*	| Documentação oficial da Receita Federal | [Acesse site](https://www.nfe.fazenda.gov.br) |
+| *Resposta à consulta 29992/2024, de 12 de julho de 2024* | Dados cadastrais | [Acesse site](https://legislacao.fazenda.sp.gov.br/Paginas/RC29992_2024.aspx) |
+| *Resposta à consultaA 30299/2024, de 23 de setembro de 2024* | Preenchimento incorreto | [Acesse site](https://legislacao.fazenda.sp.gov.br/Paginas/RC30299_2024.aspx) |
 | *Resposta à consulta 31320/2025, de 18 de março de 2025* | Obrigações acessórias | [Acesse site](https://legislacao.fazenda.sp.gov.br/Paginas/RC31320_2025.aspx) |
 
+**Ementa resumida das Resposta à consulta:**
+
+- ☑️**Resposta à consulta 29992/2024:** Não é admitido o uso de CC-e para corrigir dados cadastrais que impliquem mudança na identidade/endereço do remetente/destinatário.
+- ☑️**Resposta à consultaA 30299/2024:** A CC-e pode ser usada para sanar erros formais, desde que não alterem dados essenciais ou valores do imposto.
+- ☑️**Resposta à consulta 31320/2025:** Reafirma limites legais do uso da CC-e conforme Ajuste SINIEF: proíbe alterações em valores ou variáveis tributárias.

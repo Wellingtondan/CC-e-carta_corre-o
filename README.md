@@ -48,9 +48,9 @@ A CC-e pode ser usada para corrigir erros que **não impliquem**:
 
 - Mudança de **valores fiscais** da nota (base de cálculo, alíquota, valor total, etc.)
 
-Alteração de **impostos** (ICMS, IPI, etc.)
+- Alteração de **impostos** (ICMS, IPI, etc.)
 
-Modificação do **emitente** ou do **destinatário** (ex: mudança de CNPJ)
+- Modificação do **emitente** ou do **destinatário** (ex: mudança de CNPJ)
 
 📌 **Exemplos de campos que podem ser corrigidos**
 
@@ -99,5 +99,6 @@ Modificação do **emitente** ou do **destinatário** (ex: mudança de CNPJ)
 | Nota Técnica 2011/003	| Especifica o layout e regras técnicas do evento |
 | Manual de Orientação ao Contribuinte (MOC) |	Regras operacionais e técnicas da NF-e |
 | Portal Nacional da NF-e (https://www.nfe.fazenda.gov.br)	| Documentação oficial da Receita Federal |
+| RESPOSTA À CONSULTA TRIBUTÁRIA 29992/2024, de 12 de julho de 2024. | 
 
 

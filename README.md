@@ -93,12 +93,13 @@ A CC-e pode ser usada para corrigir erros que **não impliquem**:
 
 ⚖️ **Base legal**
 
-| **Documento**	| **Descrição** |
-|-----------|----------|
-| Ajuste SINIEF 13/2024 |	Define o uso e condições da CC-e a partir de 2024 |
-| Nota Técnica 2011/003	| Especifica o layout e regras técnicas do evento |
-| Manual de Orientação ao Contribuinte (MOC) |	Regras operacionais e técnicas da NF-e |
-| Portal Nacional da NF-e (https://www.nfe.fazenda.gov.br)	| Documentação oficial da Receita Federal |
-| RESPOSTA À CONSULTA TRIBUTÁRIA 29992/2024, de 12 de julho de 2024. | 
-
+| **Documento**	| **Descrição** | **Link** |
+|-----------|----------| ----------|
+| Ajuste SINIEF 13/2024 |	Define o uso e condições da CC-e a partir de 2024 | [Acesse site](https://www.confaz.fazenda.gov.br/legislacao/ajustes/2024/ajuste-sinef-13-24) |
+| Nota Técnica 2011/003	| Especifica o layout e regras técnicas do evento | [Acesse site](https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=hNJXbmu+l8Q%3D) |
+| Manual de Orientação ao Contribuinte (MOC) |	Regras operacionais e técnicas da NF-e | [Acesse site](https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=ndIjl+iEFdE%3D) |
+| Portal Nacional da NF-e (https://www.nfe.fazenda.gov.br)	| Documentação oficial da Receita Federal | [Acesse site](
+| RESPOSTA À CONSULTA TRIBUTÁRIA 29992/2024, de 12 de julho de 2024. | Dados cadastrais | [Acesse site](https://legislacao.fazenda.sp.gov.br/Paginas/RC30299_2024.aspx) |
+| RESPOSTA À CONSULTA TRIBUTÁRIA 30299/2024, de 23 de setembro de 2024. | Preenchimento incorreto | [Acesse site]([https://legislacao.fazenda.sp.gov.br/Paginas/RC30299_2024.aspx]) |
+| RESPOSTA À CONSULTA TRIBUTÁRIA 31320/2025, de 18 de março de 2025. | Obrigações acessórias | [Acesse site](https://legislacao.fazenda.sp.gov.br/Paginas/RC31320_2025.aspx) |
 

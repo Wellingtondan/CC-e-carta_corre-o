@@ -6,6 +6,7 @@
 📘A **Carta de Correção Eletrônica (CC-e)** é um evento da Nota Fiscal Eletrônica (NF-e) que permite corrigir erros formais em documentos fiscais, desde que **não alterem valores, tributos ou dados essenciais da operação**.
 
 ✅ Quando pode ser utilizada
+
 A CC-e pode ser usada para corrigir erros que **não impliquem**:
 
 - Mudança de **valores fiscais** da nota (base de cálculo, alíquota, valor total, etc.)

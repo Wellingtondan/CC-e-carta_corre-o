@@ -1,5 +1,5 @@
 
-#### Carta de Correção Eletrônica (CC-e) quando emitir?
+## Carta de Correção Eletrônica (CC-e) quando emitir?
 
 ### Carta de Correção Eletrônica (CC-e)
 

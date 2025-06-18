@@ -86,4 +86,4 @@ A **Carta de Correção Eletrônica (CC-e)** é uma ferramenta valiosa para corr
 
 🧭 **Orientação contínua**: Consulte sempre os manuais oficiais, notas técnicas, o **site do Portal Nacional da NF-e** e a **legislação estadual**, que pode trazer regras específicas ou entendimentos atualizados.
 
-***Elaborado pelo colaborador:*** Wellington Daniel
+🖊️***Elaborado pelo colaborador:*** Wellington Daniel

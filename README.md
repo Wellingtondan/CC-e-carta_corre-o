@@ -52,10 +52,9 @@ Alteração de **impostos** (ICMS, IPI, etc.)
 
 Modificação do **emitente** ou do **destinatário** (ex: mudança de CNPJ)
 
-📌 Exemplos de campos que podem ser corrigidos
+📌 **Exemplos de campos que podem ser corrigidos**
 
-
-|Tipo de Informação	| Pode Corrigir?|
+| **Tipo de Informação**	| **Pode Corrigir?** |
 | -------------------- | -------------------- |
 | *CFOP ou CST (sem mudança de tributação)* |  ✅  |
 | *Descrição do produto (sem mudar valor)* |  ✅  |
@@ -67,28 +66,38 @@ Modificação do **emitente** ou do **destinatário** (ex: mudança de CNPJ)
 | *CNPJ do destinatário*	| ❌ |
 | *Alíquota de ICMS/IPI/PIS/COFINS*	| ❌ |
 
-📅 Prazos e limites
-Prazo: até 720 horas (30 dias corridos) após a autorização da NF-e
+📅 **Prazos e limites**
 
-Limite de eventos: até 20 CC-e por NF-e
+- **Prazo:** até **720 horas** (30 dias corridos) após a autorização da NF-e
 
-Consolidação: a última CC-e deve conter todas as correções anteriores
+- **Limite de eventos:** até **20 CC-e por NF-e**
 
-🛠️ Procedimento técnico
-A CC-e é registrada como um evento da NF-e, com o código 110110
+- **Consolidação:** a última CC-e deve conter todas as correções anteriores
 
-Deve ser transmitida para a SEFAZ autorizadora
+🛠️ **Procedimento técnico**
 
-O XML da CC-e deve conter:
+- A CC-e é registrada como um **evento** da NF-e, com o **código 110110**
 
-Chave da NF-e
+- Deve ser transmitida para a SEFAZ autorizadora
 
-Descrição da correção
+- O XML da CC-e deve conter:
 
-Sequência do evento
+  - Chave da NF-e
 
-Assinatura digital do emitente
+  - Descrição da correção
+
+  - Sequência do evento
+
+  - Assinatura digital do emitente
 
 
+⚖️ **Base legal**
+
+| **Documento**	| **Descrição** |
+|-----------|----------|
+| Ajuste SINIEF 13/2024 |	Define o uso e condições da CC-e a partir de 2024 |
+| Nota Técnica 2011/003	| Especifica o layout e regras técnicas do evento |
+| Manual de Orientação ao Contribuinte (MOC) |	Regras operacionais e técnicas da NF-e |
+| Portal Nacional da NF-e (https://www.nfe.fazenda.gov.br)	| Documentação oficial da Receita Federal |
 
 

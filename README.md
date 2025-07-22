@@ -43,6 +43,7 @@ Correção do CNPJ ou nome da transportadora
 Inclusão da transportadora (quando faltante)
 
 Alteração do tipo de frete (CIF/FOB), desde que não altere os valores da nota
+
 --------------------------
 
 📅 **Prazos e limites**

@@ -30,7 +30,7 @@ A CC-e pode ser usada para corrigir erros que **não impliquem**:
 | *CNPJ, IE ou endereço do destinatário*	| ❌ |
 | *Razão social do destinatário*	| ❌ |
 | *Alíquota de ICMS/IPI/PIS/COFINS*	| ❌ |
-
+--------------------------
 
 ✅ Transportadora 
 

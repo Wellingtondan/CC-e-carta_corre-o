@@ -27,8 +27,22 @@ A CC-e pode ser usada para corrigir erros que **não impliquem**:
 | *Transportadora*	| ✅ |
 | *Dados adicionais no rodapé*	| ✅ |
 | *Quantidade, preço unitário, valor total*	| ❌ |
-| *CNPJ do destinatário*	| ❌ |
+| *CNPJ, IE ou endereço do destinatário*	| ❌ |
+| *Razão social do destinatário*	| ❌ |
 | *Alíquota de ICMS/IPI/PIS/COFINS*	| ❌ |
+
+
+✅ Transportadora 
+
+A alteração da transportadora é permitida por meio da CC-e, desde que não haja mudança de valor do frete ou de regime tributário. A transportadora não é considerada dado essencial da operação, segundo o [`Manual de Orientação ao Contribuinte (MOC)`](https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=LrBx7WT9PuA=).
+
+📌 Exemplo válido de correção via CC-e:
+
+Correção do CNPJ ou nome da transportadora
+
+Inclusão da transportadora (quando faltante)
+
+Alteração do tipo de frete (CIF/FOB), desde que não altere os valores da nota
 --------------------------
 
 📅 **Prazos e limites**

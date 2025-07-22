@@ -38,11 +38,11 @@ A alteração da transportadora é permitida por meio da CC-e, desde que não ha
 
 📌 Exemplo válido de correção via CC-e:
 
-Correção do CNPJ ou nome da transportadora
+- Correção do CNPJ ou nome da transportadora
 
-Inclusão da transportadora (quando faltante)
+- Inclusão da transportadora (quando faltante)
 
-Alteração do tipo de frete (CIF/FOB), desde que não altere os valores da nota
+- Alteração do tipo de frete (CIF/FOB), desde que não altere os valores da nota
 
 --------------------------
 
